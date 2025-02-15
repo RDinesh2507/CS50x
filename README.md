@@ -1,9 +1,7 @@
 Pet Adoption Web Application Overview
-
 The Pet Adoption Web Application is a user-friendly platform designed to connect individuals with pets in need of a loving home. This web-based application allows users to browse available pets, learn about their breed, age, and other details, and submit adoption requests. The application is built using Flask (Python) for the backend, HTML, CSS, and JavaScript for the frontend, and SQLite for database management.
 
 Project Structure
-
 The project is organized into several key components, each responsible for a specific aspect of the application. Below is a breakdown of the key files and their roles:
 
 index.html (Frontend - HTML)
@@ -97,7 +95,6 @@ The adoption flow is kept simple, with a form where users enter their name and t
 JavaScript is used to enhance the interactivity of the application by fetching pet data dynamically and submitting adoption requests without reloading the page. This improves the overall user experience by providing a smooth, seamless interaction.
 
 Conclusion
-
 The Pet Adoption Web Application is a simple yet effective platform that allows users to browse pets available for adoption and submit adoption requests. By combining HTML, CSS, JavaScript, Flask, and SQLite, this project demonstrates core web development concepts including frontend-backend interaction, database management, and form submission.
 
 Although the design is minimalistic, it is highly functional, providing a smooth experience for users. The potential for further expansion and enhancement is significant, and the application can be improved by adding features such as user authentication, advanced pet filtering, or admin dashboards in the future.
