@@ -1,5 +1,5 @@
-Pet Adoption Web Application
-Description:
+Pet Adoption Web Application Description:
+
 Project Overview:
 
 The Pet Adoption Web Application is a simple yet powerful platform designed to help users adopt pets online. This web-based application allows users to view available pets, learn about their breed, age, and more, and submit adoption requests. The backend is powered by Python using the Flask framework, while the frontend is developed using HTML, CSS, and JavaScript. The application uses an SQL database to store pet details and adoption requests, which facilitates interaction between users and the pets available for adoption.
