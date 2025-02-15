@@ -1,4 +1,4 @@
-Pet Adoption Web Application Description:
+CS50x Final Project - Pet Adoption Web Application:
 
 Project Overview:
 
